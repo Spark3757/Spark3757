@@ -7,4 +7,4 @@
 
 Also I'm intrerested in Netty/Hibernate
 
-📫 If you want to rearch me: admin<?dog>spark1337.ru
+📫 If you want to rearch me: admin@spark1337.ru
